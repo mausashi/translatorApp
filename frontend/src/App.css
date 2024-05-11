@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body.dark {
+    background-color: #1a202c; /* This is the color 'gray-800' in Tailwind CSS */
+  }
